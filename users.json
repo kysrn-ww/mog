@@ -13,5 +13,195 @@
     "username": "Last",
     "password": "Samurai",
     "isActive": true
+  },
+  {
+    "username": "user03",
+    "password": "jH7xW3sP",
+    "isActive": true
+  },
+  {
+    "username": "user04",
+    "password": "B6fD1nQy",
+    "isActive": true
+  },
+  {
+    "username": "user05",
+    "password": "tP2kE8zM",
+    "isActive": true
+  },
+  {
+    "username": "user06",
+    "password": "mC3rN5wJ",
+    "isActive": true
+  },
+  {
+    "username": "22",
+    "password": "22",
+    "isActive": true
+  },
+  {
+    "username": "user07",
+    "password": "K7uD4sVa",
+    "isActive": true
+  },
+  {
+    "username": "user08",
+    "password": "gH9yR2lX",
+    "isActive": true
+  },
+  {
+    "username": "user09",
+    "password": "S8oV1pMf",
+    "isActive": true
+  },
+  {
+    "username": "user10",
+    "password": "xT4cZ6jQ",
+    "isActive": true
+  },
+  {
+    "username": "user11",
+    "password": "dR5mW9nK",
+    "isActive": true
+  },
+  {
+    "username": "user12",
+    "password": "Q2yJ7bTg",
+    "isActive": true
+  },
+  {
+    "username": "user13",
+    "password": "vH3nC8sM",
+    "isActive": true
+  },
+  {
+    "username": "user14",
+    "password": "J6kP5xFz",
+    "isActive": true
+  },
+  {
+    "username": "user15",
+    "password": "aX9mT1qG",
+    "isActive": true
+  },
+  {
+    "username": "user16",
+    "password": "Y4wL8cDp",
+    "isActive": true
+  },
+  {
+    "username": "user17",
+    "password": "hN7rZ5uS",
+    "isActive": true
+  },
+  {
+    "username": "user18",
+    "password": "M3kQ6vJp",
+    "isActive": true
+  },
+  {
+    "username": "user19",
+    "password": "T8dS2xRb",
+    "isActive": true
+  },
+  {
+    "username": "user20",
+    "password": "wP5jL7hC",
+    "isActive": true
+  },
+  {
+    "username": "user21",
+    "password": "F9nV3yQd",
+    "isActive": true
+  },
+  {
+    "username": "user22",
+    "password": "zX1mG4tN",
+    "isActive": true
+  },
+  {
+    "username": "user23",
+    "password": "K6yJ8wQp",
+    "isActive": true
+  },
+  {
+    "username": "user24",
+    "password": "L7dP2rHs",
+    "isActive": true
+  },
+  {
+    "username": "user25",
+    "password": "R3xF9mVt",
+    "isActive": true
+  },
+  {
+    "username": "user26",
+    "password": "jQ8sY5pK",
+    "isActive": true
+  },
+  {
+    "username": "user27",
+    "password": "H2mT6nDx",
+    "isActive": true
+  },
+  {
+    "username": "user28",
+    "password": "cN9rB4yV",
+    "isActive": true
+  },
+  {
+    "username": "user29",
+    "password": "G5wP3kSz",
+    "isActive": true
+  },
+  {
+    "username": "user30",
+    "password": "Z1tL8hRq",
+    "isActive": true
+  },
+  {
+    "username": "user31",
+    "password": "pM6xK4dW",
+    "isActive": true
+  },
+  {
+    "username": "user32",
+    "password": "sF7jQ9gC",
+    "isActive": true
+  },
+  {
+    "username": "user33",
+    "password": "nD2vT5mZ",
+    "isActive": true
+  },
+  {
+    "username": "user34",
+    "password": "kH8rW1yP",
+    "isActive": true
+  },
+  {
+    "username": "user35",
+    "password": "X4qL7sMf",
+    "isActive": true
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "isActive": true
+  },
+  {
+    "username": "guest",
+    "password": "guest123",
+    "isActive": true
+  },
+  {
+    "username": "test",
+    "password": "test123",
+    "isActive": true
+  },
+  {
+    "username": "demo",
+    "password": "demo123",
+    "isActive": true
   }
 ]
