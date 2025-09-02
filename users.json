@@ -192,7 +192,7 @@
   {
     "username": "guest",
     "password": "guest123",
-    "isActive": true
+    "isActive": false
   },
   {
     "username": "test",
