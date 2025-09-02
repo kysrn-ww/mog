@@ -1,19 +1,17 @@
-{
-  "users": [
-    {
-      "username": "user01",
-      "password": "pZ4r7K8m",
-      "isActive": true
-    },
-    {
-      "username": "user02", 
-      "password": "L9vT2aQc",
-      "isActive": true
-    },
-    {
-      "username": "admin",
-      "password": "admin123",
-      "isActive": true
-    }
-  ]
-}
+[
+  {
+    "username": "user01",
+    "password": "pZ4r7K8m",
+    "isActive": true
+  },
+  {
+    "username": "user02",
+    "password": "L9vT2aQc", 
+    "isActive": true
+  },
+  {
+    "username": "22",
+    "password": "22",
+    "isActive": true
+  }
+]
